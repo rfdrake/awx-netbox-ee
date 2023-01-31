@@ -1,0 +1,8 @@
+context/
+# this works if they use an ansible-builder venv directory, or just run venv on the current dir.
+lib/
+lib64
+bin/
+include/
+pyvenv.cfg
+ansible-builder/
