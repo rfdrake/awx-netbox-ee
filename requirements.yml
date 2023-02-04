@@ -2,4 +2,5 @@
 collections:
   - netbox.netbox
   - community.network
+  - community.general
   - ansible.utils
