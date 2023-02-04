@@ -2,3 +2,4 @@ pynetbox
 packaging
 pytz
 netaddr
+jmespath
