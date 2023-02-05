@@ -1,4 +1,4 @@
-pynetbox
+pynetbox<7
 packaging
 pytz
 netaddr
