@@ -27,7 +27,6 @@ jobs:
           pip install ansible-builder
           ansible-builder build --tag=ghcr.io/${{ github.repository }}
 
-    steps:
       - name: Log in to ghcr.io
         uses: redhat-actions/podman-login@v1
         with:
